@@ -1,0 +1,23 @@
+{
+  "name": "jan-ken-pon",
+  "version": "1.0.0",
+  "description": "El clásico juego de piedra, papel y tijera pero en su versión (Big-bang theory) desarrollado en Javascript",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Jan-ken-pon",
+    "Big-bang",
+    "theory",
+    "Game",
+    "juego",
+    "piedra",
+    "papel",
+    "y",
+    "tijera"
+  ],
+  "author": "Diego Zazueta <Diegoztag@gmail.com>",
+  "license": "MIT"
+}
